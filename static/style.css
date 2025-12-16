@@ -1,0 +1,14 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #eef;
+}
+
+.card {
+    margin-top: 20px;
+    padding: 15px;
+    background: white;
+    display: inline-block;
+    border-radius: 10px;
+}
+
